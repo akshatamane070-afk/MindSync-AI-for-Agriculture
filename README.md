@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌾 AgriCycle AI
+# 🌾 MindSync AI for Agriculture
 ### An AI-Powered Approach to Stubble-Burning Prevention
 
 **Predict early. Coordinate collection. Turn crop residue into value.**
