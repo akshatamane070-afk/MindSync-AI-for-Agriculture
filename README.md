@@ -19,7 +19,7 @@
 
 After harvesting, farmers have a limited window to clear their fields before the next planting cycle. When balers, transporters, and biomass buyers are difficult to coordinate, burning crop residue can become a quick but harmful option. Stubble burning contributes to air pollution and can damage soil quality.
 
-**AgriCycle AI** is the MindSync team's proposed solution to help prevent burning before it starts by connecting early risk prediction with crop-residue collection and reuse.
+**MindSync AI for Agriculture** is the MindSync team's proposed solution to help prevent burning before it starts by connecting early risk prediction with crop-residue collection and reuse.
 
 ## 💡 Our Solution
 
